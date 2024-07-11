@@ -12,6 +12,14 @@
     background-color: white;
     font-size: 20px;
 }
+.btn-3{
+    height: 47px;
+    width: 171px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(13, 19, 33, 1);
+    background-color: white;
+}
 /* header styles */
 .header-title{
     display: flex;
@@ -52,3 +60,28 @@ header button{
     border-radius: 8px;
 }
 /* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.first-body{
+    padding: 80px 97px;
+    background-color: rgba(13, 19, 33, 0.02);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 154px;
+}
+.first-body-section{
+    display: flex;
+    align-items: flex-start;
+    padding: 48px 47px 32px 47px;
+    box-shadow: 2px 2px 2px 2px rgba(173, 200, 247, 1, 10%);
+}
+.first-part-title{
+    font-size: 24px;
+    font-weight: 700;
+    opacity: 0.7;
+
+}
