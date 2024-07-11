@@ -180,7 +180,7 @@ main{
 }
 .fourth-body{
     width: 1140px;
-    background-image: url("/assets/handshake.jpg");
+    background-image:url("/assets/handshake.jpg");
     height: 313px; 
     background-size: 1140px 313px;
     background-repeat: no-repeat;
