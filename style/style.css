@@ -172,6 +172,61 @@ main{
 .description{
     text-align:start;
 }
-.future-skills{
-
+/* fourth body start */
+.nav-title-3{
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+}
+.fourth-body{
+    width: 1140px;
+    background-image: url("/assets/handshake.jpg");
+    height: 313px; 
+    background-size: 1140px 313px;
+    background-repeat: no-repeat;
+    margin-top:49px;
+    border-radius: 16px;
+}
+.fourth-text{
+    color: #FFFFFF;
+    font-weight: 200;
+    font-size: 16px;
+    opacity: 0.7;
+}
+.fourth-section-1{
+    text-align: center;
+    padding: 64px 48px;
+}
+.fourth-section-2{
+    display: flex;
+    justify-content: space-around;
+}
+.fourth-section-2 input[type="text"]{
+    height: 57px;
+    width: 548px;
+    background-color: white;
+    color: rgba(13, 19, 33, 0.4);
+    border-radius: 8px;
+    font-size: 20px;
+}
+input[type="submit"]{
+    width: 120px;
+    height: 57px;
+    color: rgba(13, 19, 33, 0.4);
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+}
+/* footer styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 38.5px 150px;
+    margin-top: 80px;
+    background-color: rgba(13, 19, 33, 0.03);
+}
+.nav-icons{
+    display: flex;
+    list-style: none;
+    gap:24px;
 }
